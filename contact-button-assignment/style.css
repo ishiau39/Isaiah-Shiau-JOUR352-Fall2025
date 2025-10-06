@@ -1,0 +1,33 @@
+/*
+MY COLOR PALETTE
+Light Cyan - #E0FBFC
+Gun Metal - #253237
+Light Blue - #C2DFE3
+Cadet Grey - #9DB4C0
+Payne's Grey - #5C6B73
+*/
+
+body {
+    background-color: #5c6b73;
+}
+
+button {
+    background-color: #e0fbfc;
+    color: #253237;
+    width: 90px
+    padding: 
+}
+
+button: hover {
+    background-color: #c2dfe3;
+   
+}
+
+h1 {
+    font-family: "Oswald", sans-serif;
+}
+
+h2 {
+    font-family: "Oswald", sans-serif;
+    font-weight: lighter;
+}
