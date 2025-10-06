@@ -14,13 +14,17 @@ body {
 button {
     background-color: #e0fbfc;
     color: #253237;
-    width: 90px
-    padding: 
+    width: 90px;
+    padding: 3px;
+    margin-top: 20px;
+    margin-left: 175px;
+    border: none;
+    border-radius: 2px;
+    
 }
 
 button: hover {
     background-color: #c2dfe3;
-   
 }
 
 h1 {
