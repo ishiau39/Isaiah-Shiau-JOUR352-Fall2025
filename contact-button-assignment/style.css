@@ -17,10 +17,10 @@ button {
     width: 90px;
     padding: 3px;
     margin-top: 20px;
-    margin-left: 175px;
+    margin-left: 20x;
+    text-align: center;
     border: none;
     border-radius: 2px;
-    
 }
 
 button: hover {
